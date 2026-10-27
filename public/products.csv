@@ -1,0 +1,21 @@
+id,name,price,expiryDate
+1,Milk,40,2026-11-05
+2,Rice,600,2027-06-10
+3,Biscuits,120,2027-01-15
+4,Cooking Oil,450,2027-03-20
+5,Chocolate,80,2026-12-25
+6,Bread,35,2026-11-02
+7,Eggs (12 pack),90,2026-11-08
+8,Apples (1 kg),180,2026-11-10
+9,Bananas (1 dozen),70,2026-11-03
+10,Sugar (1 kg),55,2027-05-15
+11,Wheat Flour (1 kg),65,2027-02-20
+12,Tea Powder (250 g),140,2027-04-12
+13,Coffee Powder (200 g),220,2027-03-08
+14,Paneer (200 g),95,2026-11-01
+15,Curd (500 g),45,2026-11-04
+16,Butter (100 g),60,2026-11-12
+17,Cheese Slices,160,2026-12-15
+18,Orange Juice (1 L),110,2026-12-01
+19,Potato Chips,30,2027-02-10
+20,Instant Noodles,25,2027-01-30
